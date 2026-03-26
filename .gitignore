@@ -10,4 +10,4 @@ __pycache__/
 
 # Large files (optional)
 *.xlsx
-*.json
+*.json.env 
